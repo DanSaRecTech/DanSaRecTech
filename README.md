@@ -1,4 +1,4 @@
-## Oá! Eu sou o Dan Araújo, programador backend JAVA na empresa Inter!
+## Oá! Eu sou o José Araújo, programador backend JAVA na empresa Inter!
 <div align="center">
   <a href="https://github.com/DanSaRecTech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanSaRecTech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
