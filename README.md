@@ -1,6 +1,6 @@
 ## Oá! Eu sou o José Araújo, programador backend JAVA na empresa Inter e estudante da linguagem Golang!
 <div align="center">
-  <a href="https://github.com/DanSaRecTech">
+  <a href="https://github.com/odanaraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanSaRecTech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanSaRecTech&layout=compact&langs_count=7&theme=dracula"/>
 </div>
