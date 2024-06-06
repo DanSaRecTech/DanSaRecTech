@@ -1,4 +1,4 @@
-## Oá! Eu sou o José Araújo, programador backend JAVA na empresa Inter e estudante da linguagem Golang!
+## Olá! Eu sou o José Araújo, programador backend. Atualmente eu estou trabalhando com Golang e JAVA na empresa mercado livre.
 <div align="center">
   <a href="https://github.com/odanaraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odanaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
